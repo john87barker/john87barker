@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**john87barker/john87barker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello!
+My name is John Barker and I am new to this crazy thing called coding! 
 
 - 🔭 I’m currently working on ...becoming a software developer by going to school at Boise Code Works.
 - 🌱 I’m currently learning ...on using the MVC model for javascript.
